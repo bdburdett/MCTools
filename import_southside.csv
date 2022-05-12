@@ -1,0 +1,505 @@
+Course OID,Course ID,Subject,Code,Name,Effective Date,Short Title,Academic Group
+8286,154574,BUS,205,Human Resource Management,2011-01-10,Humn Res Mgt,NDEV
+8287,154577,BUS,209,Continuous Quality Improvement,2015-10-19,Continuous Quality Improvement,NDEV
+8780,154581,BUS,226,Computer Business Applications,2004-08-01,Microcomputer Apps in Business,NDEV
+8288,154584,BUS,236,Communication in Management,1990-08-23,Comm in Mgt,NDEV
+8289,154585,BUS,241,Business Law I,1988-06-20,Bus Law I,NDEV
+8290,154586,BUS,242,Business Law II,2011-01-10,Busin Law II,NDEV
+8735,154588,BUS,280,Introduction To International Business,1988-06-20,Int Intern Bus,NDEV
+8291,154593,BUS,298,Seminar and Project,1988-06-20,Sem Proj,NDEV
+8294,155208,CAD,201,Computer Aided Drafting and Design I,2010-01-01,Com Aided Drafting & Design I,NDEV
+8295,155209,CAD,202,Computer Aided Drafting and Design II,2010-01-01,Com Aided Drfting & Desg II,NDEV
+8781,155214,CAD,231,Computer Aided Drafting I,2010-01-01,Computer Aided Drafting I,NDEV
+8782,155215,CAD,232,Computer Aided Drafting II,2010-01-01,Computer Aided Drafting II,NDEV
+8296,155216,CAD,233,Computer Aided Drafting III,2013-12-13,Comp Aid Drf III,NDEV
+8297,531336,CAD,250,3D Game Level Design,2010-01-01,3D Game Level Design,NDEV
+8783,536090,CAD,238,Computer Aided Modeling and Rendering I,2012-01-01,Com Aided Modeling & Rend I,NDEV
+8292,536436,CAD,140,Technical Drawing,2010-01-01,Technical Drawing,NDEV
+8293,555650,CAD,200,Survey of Computer Aided Drafting,2014-05-01,Survey of Com Aided Drafting,NDEV
+8298,154626,CHD,118,Language Arts For Children,1991-08-22,Lang Arts Chil,NDEV
+8300,154627,CHD,120,Introduction to Early Childhood Education,2013-11-26,Intro to Early Childhood Educ,NDEV
+8301,154630,CHD,125,Creative Activities For Children,1991-01-10,Creat Act F Ch,NDEV
+8302,154631,CHD,126,Dev Sci & Mth Concepts For Children,1999-01-08,Dev Sci & Mth,NDEV
+8303,154636,CHD,167,CDA Theories and Appl Portfolio,2011-01-10,CDA Theories,NDEV
+8304,154639,CHD,205,Guiding the Behavior of Children,1992-01-09,Guiding the Beh of Children,NDEV
+8305,154643,CHD,290,Coordinated Internship,2004-08-01,Coordinated Internship,NDEV
+8299,569496,CHD,119,Introduction to Reading Methods,2017-08-01,Introduction to Reading Method,NDEV
+8306,154697,CHM,5,Developmental Chemistry for Health Sciences,2011-01-14,Dev Chem for Health Sciences,DEV
+8307,154698,CHM,101,General Chemistry I,2020-05-01,General Chemistry I,NDEV
+8308,154699,CHM,102,General Chemistry II,2007-11-15,General Chemistry II,NDEV
+8309,154700,CHM,111,College Chemistry I,2020-05-01,Coll Chem I,NDEV
+8310,154701,CHM,112,College Chemistry II,2011-01-14,Coll Chem II,NDEV
+8315,154823,COS,81,Cosmetology Theory I,2001-08-23,Cos Theory I,NDEV
+8316,154824,COS,82,Cosmetology Theory II,2002-01-07,Cos Theory II,NDEV
+8317,154826,COS,195,Topics In,2004-08-01,Topics In,NDEV
+8318,505297,COS,198,COS,2004-08-01,COS,NDEV
+8321,505298,COS,298,Seminar and Project,2008-08-01,Seminar and Project,NDEV
+8322,546298,COS,299,Supervised Study,2011-01-01,Supervised Study,NDEV
+8319,553216,COS,199,Supervised Study,2013-08-01,Supervised Study,NDEV
+8311,160720,CST,100,Principles of Public Speaking,2011-01-18,Principles of Public Speaking,NDEV
+8312,160722,CST,110,Introduction to Communication,2011-01-18,Introduction to Communication,NDEV
+8313,160726,CST,131,Acting I,2009-08-01,Acting I,NDEV
+8314,160731,CST,151,Film Appreciation I,2011-04-03,Film Appreciation I,NDEV
+8323,155354,DSL,111,Introduction To Diesel Engine,1991-01-10,Int Diesel Eng,NDEV
+8326,155356,DSL,131,Diesel Fuel Systems and Tune-Up,2007-01-01,Diesel Fuel Sy,NDEV
+8328,155357,DSL,152,"Diesel Power Trains, Chassis, and Suspen",2004-08-01,Diesel Pow Tra,NDEV
+8330,155359,DSL,161,Air Brake Systems I,2011-01-14,Air Brake Sys,NDEV
+8333,155360,DSL,195,Topics,2005-08-01,Topics In,NDEV
+8325,161120,DSL,126,Diesel Engine Reconditioning,2002-05-23,Dsl Egr Recond,NDEV
+8327,161121,DSL,143,Diesel Truck Electrical Systems,2002-08-22,Dsl Trk Ele Sy,NDEV
+8329,161122,DSL,160,Air Brake Systems,2002-05-23,Air Brake Syst,NDEV
+8331,161123,DSL,181,Diesel Mechanics I,2002-08-22,Diesel Mech I,NDEV
+8324,508773,DSL,123,Diesel Engine Systems I,2011-01-18,Diesel Engine Systems I,NDEV
+8334,155368,ECO,201,Principles of Macroeconomics,2011-01-14,Principles of Macroeconomics,NDEV
+8335,155369,ECO,202,Principles of Microeconomics,2011-01-14,Principles of Microeconomics,NDEV
+9168,582469,EDE,10,English Composition Prep,2022-01-01,English Composition Prep,DEV
+9169,582470,EDE,11,English Composition Readiness,2022-01-01,English Composition Readiness,DEV
+8337,155437,EDU,235,"Health, Safety and Nutrition Education",1991-01-10,Hlt Safe Nutr,NDEV
+8336,501475,EDU,200,Intro to Teaching as a Profession,2016-08-01,Intro to Teaching as a Profess,NDEV
+8340,155528,EGR,120,Introduction To Engineering,2002-01-07,Intro Engineer,NDEV
+8341,500516,EGR,123,Introduction to Engineering Design,2003-01-07,Intro to Engineering Design,NDEV
+8338,500517,EGR,100,Engineering Technology Orientation,2003-01-07,Engineering Tech Orientation,NDEV
+8342,155541,ELE,110,Home Electric Power,2010-01-01,Home Electric Power,NDEV
+8343,155544,ELE,113,Electricity I,1988-06-20,Electricity I,NDEV
+8344,155545,ELE,114,Electricity II,1988-06-20,Electricity II,NDEV
+8345,155549,ELE,121,Electrical Circuits I,1988-06-20,Elec Cir I,NDEV
+8346,155550,ELE,122,Electrical Circuits II,1988-06-20,Elec Cir II,NDEV
+8347,155554,ELE,127,Residential Wiring Methods,2011-01-14,Resid Wrg Meth,NDEV
+8348,155555,ELE,131,National Electrical Code I,1988-06-20,Nat Ele Cd I,NDEV
+8349,155556,ELE,132,National Electrical Code II,1988-06-20,Nat Elec Cd II,NDEV
+8350,155557,ELE,133,Practical Electricity I,1988-06-20,Practical Electricity I,NDEV
+8351,155558,ELE,134,Practical Electricity II,1988-06-20,Prac Elec II,NDEV
+8352,155561,ELE,138,National Electrical Code,1991-05-20,National Ele C,NDEV
+8353,155565,ELE,156,Electc Control,2004-08-01,Electc Control,NDEV
+8355,155567,ELE,175,Industrial Solid State Devices & Circuit,2002-01-07,Devices & Circ,NDEV
+8356,155573,ELE,211,Electrical Machines,1988-06-20,Elec Mach I,NDEV
+8357,155574,ELE,212,Electriacal Machines II,1988-06-20,Elec Mach II,NDEV
+8358,155575,ELE,216,Industrial Electricity,1988-06-20,Indust Elec,NDEV
+8359,155578,ELE,239,Programmable Controllers,2019-05-01,Programmable Controllers,NDEV
+8360,161125,ELE,245,Industrial Wiring,2002-05-23,Industrial Wir,NDEV
+8354,533946,ELE,159,Electrical Motors,2008-05-01,Electrical Motors,NDEV
+8792,577009,ELE,226,Electrical Power and Control Systems,2019-05-01,Electrical Power and Control S,NDEV
+8361,155960,EMS,111,Emergency Medical Technician/Basic,2011-01-14,Emergency Medical Tech/Basic,NDEV
+8362,155961,EMS,112,Emergency Medical Technician-Basic I,2012-01-01,Emergency Medical Tech-Basic I,NDEV
+8363,155962,EMS,113,Emergency Medical Technician-Basic II,2006-08-01,Emergency Medical Technician,NDEV
+8365,515971,EMS,151,Introduction to Advanced Life Support,2006-08-01,Intro to Advanced Life Support,NDEV
+8368,515974,EMS,157,Trauma Care,2006-08-01,Trauma Care,NDEV
+8373,515975,EMS,170,ALS Internship I,2006-08-01,ALS Internship I,NDEV
+8370,517023,EMS,163,Prehospital Trauma Life Support (PHTLS),2006-08-01,Prehospital Trauma Life Supp,NDEV
+8372,517024,EMS,169,Pediatric Advanced Life Support (PALS),2006-08-01,Pediatric Advanced Life Supp,NDEV
+8367,517041,EMS,155,Medical Care,2007-01-01,Medical Care,NDEV
+8369,517042,EMS,159,ALS - Special Populations,2012-08-15,ALS - Special Populations,NDEV
+8374,517043,EMS,172,Clinical Internship,2007-01-01,Clinical Internship,NDEV
+8375,517044,EMS,173,Field Internship II,2007-01-01,Field Internship II,NDEV
+8371,530016,EMS,165,Advanced Cardiac Life Support (ACLS),2019-05-01,Advanced Cardiac Life Support,NDEV
+8376,530017,EMS,201,EMS Professional Development,2012-08-15,EMS Professional Development,NDEV
+8377,530019,EMS,205,Advanced Pathophysiology,2013-04-22,Advanced Pathophysiology,NDEV
+8378,530020,EMS,207,Advanced Patient Assessment,2007-05-01,Advanced Patient Assessment,NDEV
+8382,530021,EMS,242,ALS Clinical Internship III,2007-05-01,ALS Clinical Internship III,NDEV
+8383,530022,EMS,243,ALS Field Internship III,2007-05-01,ALS Field Internship III,NDEV
+8773,530023,EMS,100,CPR for Healthcare Providers,2007-05-01,CPR for Healthcare Providers,NDEV
+8366,530024,EMS,153,Basic ECG Recognition,2007-05-01,Basic ECG Recognition,NDEV
+8381,530568,EMS,213,ALS Skills Development,2007-05-01,ALS Skills Development,NDEV
+8364,531497,EMS,120,Emergency Medical Technician - Basic Clinical,2011-01-18,Emergency Medical Technician,NDEV
+8379,531524,EMS,209,Advanced Pharmacology,2007-08-01,Advanced Pharmacology,NDEV
+8380,531525,EMS,211,Operations,2007-08-01,Operations,NDEV
+8384,531526,EMS,244,ALS Clinical Intership IV,2007-08-01,ALS Clinical Intership IV,NDEV
+8385,531527,EMS,245,ALS Field Intership IV,2007-08-01,ALS Field Intership IV,NDEV
+8769,539288,EMS,216,Paramedic Review,2009-09-21,Paramedic Review,NDEV
+8741,555237,EMS,152,Advanced EMT Completion,2014-08-01,Advanced EMT Completion,NDEV
+8742,556464,EMS,299,Supervised Study,2014-09-11,Supervised Study,NDEV
+8743,575765,EMS,121,Preparatory Foundations,2019-05-01,Preparatory Foundations,NDEV
+8744,575766,EMS,123,EMS Clinical Preparation,2019-05-01,EMS Clinical Preparation,NDEV
+8745,575768,EMS,125,Basic Pharmacology,2019-05-01,Basic Pharmacology,NDEV
+8746,575769,EMS,126,Basic Pharmacology Lab,2019-08-01,Basic Pharmacology Lab,NDEV
+8747,575770,EMS,127,"Airway, Shock and Resuscit",2019-08-01,"Airway, Shock and Resuscit",NDEV
+8748,575771,EMS,128,"Airway, Shock and Resuscit Lab",2019-08-01,"Airway, Shock and Resuscit Lab",NDEV
+8749,575772,EMS,135,Emergency Medical Care,2019-08-01,Emergency Medical Care,NDEV
+8753,575773,EMS,136,Emergency Medical Care Lab,2019-08-01,Emergency Medical Care Lab,NDEV
+8750,575774,EMS,137,Trauma Care,2019-08-01,Trauma Care,NDEV
+8751,575776,EMS,138,Trauma Care Lab,2019-08-01,Trauma Care Lab,NDEV
+8752,576981,EMS,139,Special Populations,2019-05-01,Special Populations,NDEV
+8754,576982,EMS,140,Special Populations Lab,2019-05-01,Special Populations Lab,NDEV
+8755,576984,EMS,141,Cardiovascular Care,2019-05-01,Cardiovascular Care,NDEV
+8756,576985,EMS,142,Cardiovascular Care Lab,2019-05-01,Cardiovascular Care Lab,NDEV
+8762,577008,EMS,175,Paramedic Clinical Experience I,2021-08-01,Paramedic Clinical Experience,NDEV
+8763,577010,EMS,202,Paramedic Pharmacology,2018-08-01,Paramedic Pharmacology,NDEV
+8764,577011,EMS,203,Advanced Patient Care,2019-05-01,Advanced Patient Care,NDEV
+8765,577012,EMS,204,Advanced Patient Care Lab,2018-08-01,Advanced Patient Care Lab,NDEV
+8766,577013,EMS,206,Pathophysiology for the Health Professions,2018-08-01,Pathophysiology/Health Profess,NDEV
+8770,577014,EMS,247,Paramedic Clinical Experience II,2018-08-01,Paramedic Clinical Experience,NDEV
+8771,577015,EMS,248,Paramedic Comprehensive Field Experience,2018-08-01,Paramedic Comprehensive Field,NDEV
+8767,577016,EMS,210,EMS Operations,2018-08-01,EMS Operations,NDEV
+8768,577017,EMS,212,Leadership and Professional Development,2018-08-01,Leadership & Professional Dev,NDEV
+8760,577018,EMS,167,Emergency Pediatrics Course (EPC),2016-08-01,Emergency Pediatrics Course,NDEV
+8758,577019,EMS,164,Advanced Medical Life Support (AMLS),2016-08-01,Advanced Medical Life Support,NDEV
+8772,577020,EMS,249,Paramedic Capstone Internship,2018-08-01,Paramedic Capstone Internship,NDEV
+8403,549625,ENF,1,Preparing for College English I,2012-11-01,Preparing/College English I,DEV
+8404,549626,ENF,2,Preparing for College English II,2012-10-01,Preparing/College English II,DEV
+8405,549627,ENF,3,Preparing for College English III,2012-10-01,Preparing/College English III,DEV
+8386,155989,ENG,111,College Composition I,2017-04-09,Coll Compos I,NDEV
+8387,155990,ENG,112,College Composition II,2011-01-14,Coll Compos II,NDEV
+9161,155991,ENG,113,English Composition II,2004-08-01,Engl Comp II,NDEV
+8388,155992,ENG,115,Technical Writing,1989-01-09,Tech Writg,NDEV
+8389,155999,ENG,137,Communication Processes I,2022-08-01,Comm Proc I,NDEV
+8390,156000,ENG,138,Communication Processes II,1998-01-09,Communication Processes II,NDEV
+8391,156005,ENG,211,Creative Writing I,2008-08-01,Creative Writing I,NDEV
+8392,156006,ENG,212,Creative Writing II,2007-09-17,Creative Writing II,NDEV
+8393,156009,ENG,236,Introduction to the Short Story,2014-09-10,Intro to the Short Story,NDEV
+9164,156015,ENG,246,American Literature,2022-05-01,American Literature,NDEV
+8401,156018,ENG,253,Survey of African-American Lit I,2022-08-01,African-Ame Lt,NDEV
+8402,156019,ENG,254,Survey of African American Lit II,2022-05-01,Afric-American,NDEV
+9165,156020,ENG,255,World Literature,2022-05-01,World Literature,NDEV
+9167,156026,ENG,275,Women in Literature,2022-05-01,Women in Literature,NDEV
+8398,550602,ENG,250,Children's Literature,2010-08-01,Children's Literature,NDEV
+9162,582521,ENG,225,Reading Literature: Culture and Ideas,2022-05-01,Reading Lit: Culture and Ideas,NDEV
+9163,582522,ENG,245,British Literature,2022-05-01,British Literature,NDEV
+9166,582523,ENG,258,African American Literature,2022-05-01,African American Literature,NDEV
+8406,156339,ETR,101,Electrical/Electronic Calculations,1993-08-23,Electrical/Electronic Calcs,NDEV
+8407,156340,ETR,106,Bas Progr Applied To Elec/Electronic Cal,1988-06-20,Ele/Ele Cal Ba,NDEV
+8408,156341,ETR,111,Electronic Mathematics,2004-08-01,Elec Math,NDEV
+8409,156342,ETR,113,D.C. and A.C. Fundamentals I,2009-01-01,D.C. and A.C. Fundamentals I,NDEV
+8410,156343,ETR,114,D.C. and A.C. Fundamentals,1988-06-20,Dc Ac Fundamen,NDEV
+8411,156344,ETR,115,Dc/Ac Fund,1998-08-21,Dc/Ac Fund,NDEV
+8413,156349,ETR,141,Electronics I,1991-08-22,Electronics I,NDEV
+8414,156350,ETR,142,Electronics II,1995-05-22,Electronics II,NDEV
+8415,156351,ETR,143,Devices and Applications I,1988-06-20,Devic Appl I,NDEV
+8416,156352,ETR,144,Devices and Applications II,2008-01-01,Dev Applic II,NDEV
+8417,156355,ETR,168,Digital Circuits Fundamentals,2009-01-01,Digital Circuit Fundamentals,NDEV
+8418,156362,ETR,214,Advanced Circuits and Devices,2001-08-23,Adv Cir&Dvcs,NDEV
+8419,156363,ETR,215,Network Analysis I,2004-08-01,Network Analyi,NDEV
+8422,156366,ETR,241,Electronic Communications I,1988-06-20,Elec Comm I,NDEV
+8423,156367,ETR,242,Electronic Communications II,1988-06-20,Elec Comm II,NDEV
+8424,156370,ETR,266,Microprocessor Applications,2008-08-01,Microproc Appl,NDEV
+8425,156373,ETR,279,"Digital Principles, Terminology and Applications",1988-06-20,Dig Pr Term Ap,NDEV
+8427,156379,ETR,298,Seminar and Project,2007-01-01,Sem & Proj,NDEV
+8420,502600,ETR,228,Computer Troubleshooting and Repair,1965-01-01,CompTroubleshooting & Repair,NDEV
+8426,517168,ETR,286,Principles and Applications of Robotics,2007-01-01,Prin and App of Robotics,NDEV
+8412,533199,ETR,116,DC and AC Circuit Analysis,2008-03-26,DC and AC Circuit Analysis,NDEV
+8428,156403,FIN,107,Personal Finance,2011-01-17,Pers Finance,NDEV
+8429,156413,FIN,215,Financial Management,2004-08-01,Fin Mgt,NDEV
+8430,156576,FRE,101,Beginning French I,1988-06-20,Beg Fre I,NDEV
+8431,156577,FRE,102,Beginning French II,1988-06-20,Beg Fre II,NDEV
+8432,156416,FST,100,Principles of Emergency Services,2006-05-01,Principles of Emer Svcs,NDEV
+8433,156417,FST,105,Fire Suppression Operations,2006-08-01,Fire Suppression Operations,NDEV
+8435,156418,FST,111,Hazardous Materials Response,2007-08-01,Hazardous Materials Response,NDEV
+8437,156419,FST,115,Fire Prevention,2006-08-01,Fire Prevention,NDEV
+8445,507613,FST,215,Fire Protection Systems,2015-10-01,Fire Protection Systems,NDEV
+8434,515938,FST,110,Fire Behavior and Combustion,2006-08-01,Fire Behavior and Combustion,NDEV
+8436,516398,FST,112,Hazardous Materials Chemistry,2006-08-01,Hazardous Materials Chemistry,NDEV
+8443,516399,FST,205,Fire Protection Hydraulics and Water Supply,2006-08-01,Fire Prot Hydraulics & Wtr Sup,NDEV
+8441,516405,FST,195,Topics In,2006-08-01,Topics In,NDEV
+8442,516465,FST,196,Topics In,2014-08-01,Topics In,NDEV
+8438,517271,FST,120,Occupational Safety and Health for the Fire Service,2010-09-29,Occupational Safety and Health,NDEV
+8444,518121,FST,210,Legal Aspects of Fire Service,2007-04-02,Legal Aspects of Fire Service,NDEV
+8448,518122,FST,240,Fire Administration,2007-04-02,Fire Administration,NDEV
+8440,518419,FST,135,Fire Instructor I,2007-01-01,Fire Instructor I,NDEV
+8446,531073,FST,220,Building Construction for Fire Protection,2007-01-01,Building Construction for Fire,NDEV
+8447,531074,FST,235,Strategy and Tactics,2007-01-01,Strategy and Tactics,NDEV
+8449,531075,FST,245,Fire and Risk Analysis,2007-10-01,Fire and Risk Analysis,NDEV
+8439,544634,FST,121,Principles of Fire and Emergency Services Safety and Survival,2011-04-01,Princ of Fire & Emer Svcs Sfty,NDEV
+8450,546223,FST,295,Topics In,2011-08-01,Topics In,NDEV
+8451,156664,GEO,210,Cultural Geog,2011-01-17,Cultural Geog,NDEV
+8452,156665,GEO,220,World Regional Geography,1990-01-08,World Reg Geo,NDEV
+8453,573427,GEO,225,Economic Geography,2018-01-01,Economic Geography,NDEV
+8454,156741,GOL,105,Physical Geology,2011-01-17,Phys Geo,NDEV
+8736,156742,GOL,106,Historical Geology,2011-01-17,Historical Geology,NDEV
+8737,541651,GOL,111,Oceanography I,2013-09-23,Oceanography I,NDEV
+8455,566895,HCT,101,Health Care Technician I,2016-01-01,Health Care Technician I,NDEV
+8456,566896,HCT,102,Health Care Technician II,2016-01-01,Health Care Technician II,NDEV
+8486,509271,HIM,253,Health Records Coding,2022-05-01,Health Records Coding,NDEV
+8487,509891,HIM,254,Advanced Coding and Reimbursement,2022-05-01,Adv Coding & Reimbursement,NDEV
+8480,553937,HIM,130,Healthcare Information Systems,2013-11-26,Healthcare Information Systems,NDEV
+8481,553938,HIM,141,Fundamentals of Health Information Systems I,2013-11-26,Funda. of Hlth Info Systems I,NDEV
+8483,553939,HIM,229,Performance Improvement in Health Care Settings,2013-11-26,Perform Imp in Hlth Care Setti,NDEV
+8482,555653,HIM,196,On-Site Training,2013-01-01,On-Site Training,NDEV
+8484,555654,HIM,230,Information Systems and Technology in Health Care,2013-01-01,Info Sys & Tech in Hlth Care,NDEV
+8485,555655,HIM,233,Electronic Health Records Management,2014-06-06,Elect Hlth Records Mgmt,NDEV
+8488,555656,HIM,296,On-Site Training,2013-01-01,On-Site Training,NDEV
+8457,156828,HIS,101,History of Western Civilization I,2011-01-17,Hist West Civ,NDEV
+8458,156829,HIS,102,History of Western Civilization II,2011-01-17,Hist of W Civ,NDEV
+8459,156830,HIS,111,History of World Civilazation I,2004-08-01,History of World Civ I,NDEV
+8460,156831,HIS,112,History of World Civilization II,2018-08-01,History of World Civilization,NDEV
+8461,156833,HIS,121,United States History I,2011-01-17,Us History I,NDEV
+8462,156834,HIS,122,United States History II,2011-01-17,Us Hist II,NDEV
+8464,156837,HIS,141,African American History I,1989-01-09,Afri Amer His,NDEV
+8465,156838,HIS,142,African-American History II,2005-09-01,African-American History II,NDEV
+8471,156847,HIS,269,Civil War and Reconstruction,2005-09-01,Civil War and Reconstruction,NDEV
+8472,505561,HIS,281,History of Virginia,2004-08-01,History of Virginia,NDEV
+8470,544636,HIS,262,United States History in Film,2011-04-03,United States History in Film,NDEV
+8469,546868,HIS,188,HIS 188 - Field Survey Techniques for Archaeology,2011-08-01,HIS 188,NDEV
+8468,553175,HIS,187,Interpreting Material Culture,2013-08-01,Interpreting Material Culture,NDEV
+8463,572913,HIS,135,History of the Contemporary World,2018-05-01,His of the Contemporary World,NDEV
+8467,572914,HIS,181,Introduction to Historic Preservation,2018-05-01,Intro to Historic Preservation,NDEV
+8473,156936,HLT,100,First Aid and Cardiopulmonary Resus,2011-01-17,Fst Aid & Cpr,NDEV
+8474,156937,HLT,105,Cardiopulmonary Resuscitation,2011-01-17,Cardiopulmonary Resuscitation,NDEV
+8475,156940,HLT,110,Concepts of Personal and Community Hlt,2011-01-17,Conc P & C Hlt,NDEV
+8476,156943,HLT,121,Introduction To Drug Use and Abuse,2011-01-17,Intr Drug Use,NDEV
+8477,156950,HLT,143,Medical Terminology I,2011-01-17,Medical Term I,NDEV
+8478,156960,HLT,215,Personal Stress and Stress Management,2011-01-17,Pers Stress & Stress Mgmt,NDEV
+8479,156963,HLT,230,Principles of Nutrition and Human Development,2011-01-17,Prin of Nutrition & Human Dev,NDEV
+8489,157038,HMS,100,Introduction To Human Services,2011-01-17,Intr Humn Serv,NDEV
+8490,157039,HMS,121,Basic Counseling Skills I,2009-09-17,Basic Counseling Skills I,NDEV
+8491,157041,HMS,141,Group Dynamics I,1988-06-20,Grp Dynamic I,NDEV
+8492,157043,HMS,190,Coordinated Internship,2011-01-17,Coord Intern,NDEV
+8493,157049,HMS,220,Addiction & Prevention,1998-08-21,Addiction/Prev,NDEV
+8494,157050,HMS,225,Functional Family Intervention,2011-01-17,Fun Fami Inter,NDEV
+8495,157051,HMS,226,Helping Across Cultures,2011-01-17,Help Across C,NDEV
+8496,157052,HMS,227,The Helper As A Change Agent,2011-01-17,The Helper,NDEV
+8497,157055,HMS,236,Gerontology,1991-01-10,Gerontology,NDEV
+8778,157058,HMS,251,Substance Abuse I,2004-08-01,Substance Abuse I,NDEV
+8498,157060,HMS,258,Case Management & Substance Abuse,1998-08-21,Case Managemen,NDEV
+8500,157061,HMS,261,Human Behavior I,2013-01-01,Human Behavior I,NDEV
+8501,157062,HMS,262,Human Behavior II,2013-08-01,Human Behavior II,NDEV
+8503,157063,HMS,266,Counseling Psychology,1998-08-21,Counseling Psy,NDEV
+8776,157064,HMS,270,Treatment Systems,1998-08-21,Treatment Sys,NDEV
+8504,157066,HMS,290,Coordinated Internship,2004-08-01,Coord Intern,NDEV
+8499,161130,HMS,260,Substance Abuse Counseling,2002-08-22,Sub Abuse Coun,NDEV
+8502,536910,HMS,265,Personality Theory,2011-01-18,Personality Theory,NDEV
+8779,577445,HMS,252,Substance Abuse II,2019-08-01,Substance Abuse II,NDEV
+8777,577590,HMS,145,Effects of Psychoactive Drugs,2019-05-01,Effects of Psychoactive Drugs,NDEV
+8513,157208,HRI,128,Principles of Baking,2009-08-01,Principles of Baking,NDEV
+8505,509145,HRI,101,Hotel-Restaurant Organization and Management I,2005-01-01,Hotel-Rest Org & Mgmt I,NDEV
+8515,534139,HRI,140,Fundamentals of Quality for the Hospitality Industry,2008-08-01,Fund of Quality Hospitality In,NDEV
+8517,534143,HRI,160,Executive Housekeeping,2008-08-01,Executive Housekeeping,NDEV
+8507,534771,HRI,105,Introduction to Culinary Arts,2008-08-06,Introduction to Culinary Arts,NDEV
+8519,535649,HRI,195,Topics In,2011-01-18,Topics In,NDEV
+8511,536511,HRI,120,Principles of Food Preparation,2011-01-18,Principles of Food Preparation,NDEV
+8512,536512,HRI,126,The Art of Garnishing,2009-01-01,The Art of Garnishing,NDEV
+8506,538750,HRI,102,Hotel-Restaurant Organization and Management II,2009-01-01,HRI 102,NDEV
+8514,538751,HRI,134,Food and Beverage Service Management,2009-01-01,HRI,NDEV
+8516,538752,HRI,158,Sanitation and Safety,2009-01-01,HRI,NDEV
+8518,538753,HRI,180,Convention Management and Service,2009-01-01,HRI,NDEV
+8520,538754,HRI,265,Hotel Front Office Operations,2009-01-01,HRI,NDEV
+8508,539052,HRI,106,Principles of Culinary Arts I,2009-08-01,Prin of Culinary Arts I,NDEV
+8509,540340,HRI,107,Principles of Culinary Arts II,2010-01-01,Principles of Culinary Arts II,NDEV
+8510,540341,HRI,115,Food Service Managers Sanitation Certification,2010-01-01,Food Service Mgrs San Cert,NDEV
+8734,503238,HRT,100,Introduction to Horticulture,2004-08-01,Introduction to Horticulture,NDEV
+8521,157301,HUM,100,Survey of Humanities,2022-08-01,Surv Humanities,NDEV
+8522,157302,HUM,111,Great Books I,2008-01-01,Great Books I,NDEV
+8523,157303,HUM,112,Great Books I II,2008-01-01,Great Books II,NDEV
+8525,157305,HUM,201,Early Humanities,2022-05-01,Early Humanities,NDEV
+8526,157306,HUM,202,Modern Humanities,2022-05-01,Modern Humanities,NDEV
+8527,157307,HUM,210,Introduction to Women and Gender Studies,2022-05-01,Intro to Women and Gender Stud,NDEV
+8528,157310,HUM,220,Introduction To African American Studies,2011-01-17,Intro Afr Am S,NDEV
+8524,502438,HUM,165,Controversial Issues in Contemporary American Culture,2009-03-04,Controversial Issues in Contem,NDEV
+8530,157388,IND,108,Technician Computer Applications,2001-08-23,Tech Comp App,NDEV
+8532,157389,IND,115,Materials and Process of Industry,1988-06-20,Mat Proc Ind,NDEV
+8541,157391,IND,195,Topic in,2011-01-17,Topic in,NDEV
+8542,157393,IND,216,Plant Layout and Materials Handling,1988-06-20,Plt Laot Mat H,NDEV
+8535,506857,IND,140,Quality Control,2009-08-01,Quality Control,NDEV
+8537,539121,IND,160,Introduction to Robotics,2009-08-01,Introduction to Robotics,NDEV
+8529,541704,IND,75,Industrial Measurement and Conversions,2011-01-18,Industrial Measurement & Conv,NDEV
+8544,545156,IND,250,IND 250 - Introduction to Basic Computer Integrated Manufacturing,2011-05-01,IND 250 - Intro Basi Comp Man,NDEV
+8536,545157,IND,149,IND 149 - Workplace Ethics,2011-05-01,IND 149 - Workplace Ethics,NDEV
+8540,545158,IND,193,IND 193 - Studies In,2011-05-31,IND 193 - Studies In,NDEV
+8534,551290,IND,137,Team Concepts & Problem Solving,2013-01-01,Team Concept & Problem Solving,NDEV
+8539,554052,IND,162,Product Design and Development II,2013-12-13,Product Design & Dev II,NDEV
+8538,555651,IND,161,Product Design and Development I,2014-06-06,Product Design & Development I,NDEV
+8531,582390,IND,113,Materials and Processes in Manufacturing I,2022-01-01,Mater & Proces in Manufac I,NDEV
+8545,157560,ITD,110,Web Page Design I,2004-08-01,Web Pg Des I,NDEV
+8547,157598,ITD,210,Web Page Design II,2007-01-01,Web Pg Des II,NDEV
+8546,508737,ITD,112,Designing Web Page Graphics,2005-01-01,Designing Web Page Graphics,NDEV
+8787,157542,ITE,100,Introduction To Information Systems,2016-08-01,Int Inf Syst,NDEV
+8548,157544,ITE,101,Introduction To Microcomputers,2004-08-01,Intro to Microcomputers,NDEV
+8550,157551,ITE,115,Introduction to Computer Applications and Concepts,2022-05-01,Intro to Comp App & Concepts,NDEV
+8553,157556,ITE,140,Spreadsheet Software I,2022-05-01,Spreadsheet Software I,NDEV
+8552,157559,ITE,130,Introduction To Internet Services,2011-01-17,Intro To Internet Svcs,NDEV
+8554,157563,ITE,150,Desktop Database Software,2022-05-01,Desktop Database Software,NDEV
+8555,161132,ITE,160,Introduction to E-Commerce,2011-01-18,Intro to E-Commerce,NDEV
+8556,501786,ITE,170,Multimedia Software,2011-01-18,Multimedia Software,NDEV
+8549,505556,ITE,102,Computers and Information Systems,2011-01-18,Computers and Info Sys,NDEV
+8557,505558,ITE,195,Topics In,2011-01-18,Topics In,NDEV
+8559,506959,ITE,298,Seminar and Project,2022-05-01,Seminar and Project,NDEV
+8558,510368,ITE,200,Technology for Teachers,2005-08-01,Technology for Teachers,NDEV
+8551,543245,ITE,119,Information Literacy,2022-05-01,Information Literacy,NDEV
+9157,582516,ITE,152,Introduction to Digital and Information Literacy and Computer Applications,2022-05-01,Intro to Dig Inf Lit & Comp Ap,NDEV
+8560,157589,ITN,101,Introduction to Network Concepts,2004-08-01,Intro to Network Concepts,NDEV
+8562,157595,ITN,107,Personal Computer Hardware & Troubleshooting,2011-01-17,Pers Comp Hardware Troubleshoo,NDEV
+8565,160832,ITN,154,"Network Fundamentals, Router Basics, and Configuration (ICND1) - Cisco",2010-01-02,"Network Fundamentals, Router B",NDEV
+8566,160838,ITN,156,Basic Switching and Routing - Cisco,2011-01-18,Basic Switching & Routing -Cis,NDEV
+8569,509437,ITN,267,ITN 267 Legal Topics in Network Security ( 3- 4 CR),2005-01-01,Legal Topics in Network Securi,NDEV
+8563,514701,ITN,111,Server Administration,2013-08-01,Server Administration,NDEV
+8561,537126,ITN,106,Microcomputer Operating Systems,2016-03-14,Microcomputer Operating System,NDEV
+8567,537302,ITN,260,Network Security Basics,2011-01-18,Network Security Basics,NDEV
+8564,539120,ITN,124,Wireless-Network Administration (WNA),2009-08-01,Wireless-Network Adm (WNA),NDEV
+8568,546925,ITN,261,"Network Attacks, Computer Crime and Hacking",2013-01-01,"Network Attacks, Computer Crim",NDEV
+8570,549141,ITN,295,Topics In,2012-01-01,Topics In,NDEV
+8774,569466,ITN,262,"Network Communication, Security and Authentication",2017-03-29,Network Communication/Security,NDEV
+8791,571151,ITN,266,Network Security Layers,2017-10-02,Network Security Layers,NDEV
+8775,573422,ITN,263,Internet/Intranet Firewalls and e-Commerce Security,2007-01-01,Internet/Intranet Firewalls,NDEV
+8788,577594,ITN,170,Linux System Administration,2019-05-01,Linux System Administration,NDEV
+8790,579607,ITN,257,Cloud Computing: Infrastructure and Services,2019-08-01,Cloud Computing: Services,NDEV
+8789,579766,ITN,213,Information Storage and Management,2019-08-01,Information Storage and Mgmt,NDEV
+8572,157568,ITP,120,Java Programming I,2004-08-01,Java Prog I,NDEV
+8573,157570,ITP,132,C ++ Programming I,2004-08-01,C ++ Prog I,NDEV
+8574,157571,ITP,154,Basic Programming I,2005-08-01,Basic Programming I,NDEV
+8571,157578,ITP,110,Visual Basic Programming I,2004-08-01,Visual Basic Prog I,NDEV
+8579,157615,ITP,232,Computer Programming II C++ Object Oriented,2004-08-01,Comp Prog II C++,NDEV
+8577,507226,ITP,175,Concepts of Prog Languages,2004-08-01,Concepts of Prog Languages,NDEV
+8575,509201,ITP,158,Micro Assembler I,2005-05-01,Micro Assembler I,NDEV
+8576,518336,ITP,160,Introduction to Game Design & Development,2007-01-01,Intro to Game Design & Dev,NDEV
+8578,533186,ITP,198,Seminar and Project,2008-01-01,Seminar and Project,NDEV
+8793,580012,ITP,150,Python Programming,2019-05-01,Python Programming,NDEV
+8580,157754,LGL,110,Introdution To Law and Legal Assistant,2004-08-01,Intro Law Lega,NDEV
+8581,157755,LGL,115,Real Estate Law for Legal Assistants,2013-11-26,Real Estate Law for Legal Asst,NDEV
+8583,157766,LGL,225,Estate Planning and Probate,2013-11-26,Estate Planning and Probate,NDEV
+8584,553940,LGL,235,Legal Aspects of Business Organizations,2013-11-26,Legal Aspects of Bus Organ,NDEV
+8582,556567,LGL,127,Legal Research and Writing,2014-01-01,Legal Research and Writing,NDEV
+8588,157799,MAC,126,Introductory CNC Programming,2008-04-03,Introductory CNC Programming,NDEV
+8593,157800,MAC,161,Machine Shop Practices I,1988-06-20,Mach Shop Pr I,NDEV
+8594,157801,MAC,162,Machine Shop Practices II,2004-08-01,Mac Shop II,NDEV
+8595,157802,MAC,163,Machine Shop Practices III,2015-03-20,Machine Shop Practices III,NDEV
+8596,157803,MAC,164,Machine Shop Practices IV,2015-10-19,Machine Shop Practices IV,NDEV
+8597,500849,MAC,171,Machine Tool Operations,2003-01-08,Machine Tool Oper,NDEV
+8598,502113,MAC,172,Machine Tool Operations I,2003-05-01,Machine Tool Operations I,NDEV
+8599,506738,MAC,181,Machine Blueprint Reading I,2016-03-14,Machine Blueprint Reading I,NDEV
+8590,508768,MAC,131,Machine Lab 1,2005-01-01,Machine Lab 1,NDEV
+8589,508769,MAC,128,CNC Programming,2005-01-01,CNC Programming,NDEV
+8591,516334,MAC,150,Introduction to Computer Aided Manufacturing,2006-08-01,Intro to Computer Aided Manu,NDEV
+8585,556463,MAC,121,Numerical Control I,2014-09-11,Numerical Control I,NDEV
+8586,558580,MAC,122,Numerical Control II,2015-03-20,Numerical Control II,NDEV
+8587,562506,MAC,123,Computer Numerical Control III,2015-10-19,Computer Numerical Control III,NDEV
+9170,582476,MDE,10,Introduction to Algebra,2022-01-01,Introduction to Algebra,DEV
+9173,582477,MDE,60,Intermediate Algebra,2022-01-01,Intermediate Algebra,DEV
+9171,582478,MDE,54,Learning Support for Quantitative Reasoning,2022-01-01,Lrn Support for Quant Reason,DEV
+9172,582479,MDE,61,Learning Support for Pre-Calculus,2022-01-01,Learning Support for Pre-Calc,DEV
+8603,158180,MEC,161,Basic Fluid Mechanics - Hydraulics/Pneumatics,2012-01-01,Basic Fluid Mech-Hydr/Pneum,NDEV
+8604,158181,MEC,162,Applied Hydraulics and Pneumatics,2014-01-01,Applied Hydraulics and Pneumat,NDEV
+8607,158183,MEC,215,Advanced Jig and Fixture Design,1988-06-20,Adv Jig Fix De,NDEV
+8605,505072,MEC,175,Fundamental Shop Procedures and Internal Combustion Eng,2011-01-18,Fund Shop Proc & Int Com Eng,NDEV
+8600,508779,MEC,103,Electronic Circuits and Instrumentation,2011-01-18,ElecCircuits & Instrumentation,NDEV
+8602,542572,MEC,148,Industrial Pipefitting,2010-08-01,Industrial Pipefitting,NDEV
+8601,554998,MEC,140,Introduction to Mechatronics,2014-01-01,Introduction to Mechatronics,NDEV
+8608,158454,MKT,100,Principles of Marketing,2011-01-17,Prin Mktg,NDEV
+8609,158455,MKT,110,Principles of Selling,1988-06-20,Prin Selling,NDEV
+8610,546070,MTE,1,Operations with Positive Fractions,2011-10-01,Operations-Positive Fractions,DEV
+8611,546071,MTE,2,Operations with Positive Decimals and Percents,2011-10-01,Operations-Positive Dec & %s,DEV
+8612,546072,MTE,3,Algebra Basics,2011-10-01,Algebra Basics,DEV
+8613,546073,MTE,4,First Degree Equations and Inequalities in One Variable,2011-10-01,First Degree Equations,DEV
+8614,546074,MTE,5,"Linear Equations, Inequalities and Systems of  Linear Equations in Two Variables",2011-10-01,"Linear Equations, Inequalities",DEV
+8615,546075,MTE,6,"Exponents, Factoring and Polynomial Equations",2011-10-01,"Exponents, Factoring and Poly",DEV
+8616,546076,MTE,7,Rational Expressions and  Equations,2011-10-01,Rational Expressions/Equations,DEV
+8617,546077,MTE,8,Rational Exponents and Radicals,2011-10-01,Rational Exponents and Radical,DEV
+8618,546078,MTE,9,"Functions, Quadratic Equations and Parabolas",2011-10-01,"Functions, Quadratic Equations",DEV
+8619,158640,MTH,103,Basic Technical Mathematics I,2011-01-17,Bas Tech Math,NDEV
+8620,158642,MTH,111,Technical Mathematics I,2004-08-01,Tech Math I,NDEV
+8621,158648,MTH,120,Introduction To Mathematics,2011-10-01,Intr Math,NDEV
+8624,158651,MTH,141,Business Mathematics I,2003-08-01,Bus Math I,NDEV
+8625,158655,MTH,151,Mathematics For The Liberal Arts I,2011-01-17,Math Lib Art I,NDEV
+8626,158656,MTH,152,Mathematics For The Liberal Arts II,2011-01-17,Math Lb Art II,NDEV
+8629,158661,MTH,162,PreCalculus II,2018-03-01,PreCalculus II,NDEV
+8630,158662,MTH,163,Precalculus I,2011-01-17,Precalculus I,NDEV
+8631,158663,MTH,164,Precalculus II,1994-08-22,Precalculus II,NDEV
+8632,158666,MTH,168,Precalculus II with Introductory Calculus,2011-01-17,Precalculus II w IntroCalculus,NDEV
+8633,158671,MTH,175,Calculus of One Variable I,1991-08-22,Cal One Var I,NDEV
+8634,158672,MTH,176,Calculus of One Variable II,1990-01-08,Calc I Var II,NDEV
+8635,158678,MTH,241,Statistics I,2011-01-17,Statistics I,NDEV
+8640,158683,MTH,273,Calculus I,1988-06-20,Calculus I,NDEV
+8641,158684,MTH,274,Calculus II,1988-06-20,Calculus II,NDEV
+8636,549420,MTH,242,Statistics II,2012-08-01,Statistics II,NDEV
+8627,572773,MTH,154,Quantitative Reasoning,2022-04-06,Quantitative Reasoning,NDEV
+8628,572775,MTH,161,PreCalculus I,2022-04-06,PreCalculus I,NDEV
+8622,572963,MTH,130,Fundamentals of Reasoning,2018-03-01,Fundamentals of Reasoning,NDEV
+8637,572964,MTH,245,Statistics I,2022-03-01,Statistics I,NDEV
+8638,572965,MTH,263,Calculus I,2018-03-01,Calculus I,NDEV
+8623,572968,MTH,132,Business Mathematics,2018-03-01,Business Mathematics,NDEV
+8639,573376,MTH,264,Calculus II,2018-03-01,Calculus II,NDEV
+8642,158692,MUS,121,Music Appreciation,2011-01-17,Mus Apprecia,NDEV
+8643,158693,MUS,122,Music Appreciation II,2011-01-17,Mus Apprec II,NDEV
+8738,158850,NAS,125,Meteorology,2007-01-01,Meteorology,NDEV
+8644,158852,NAS,131,Astronomy I,2014-01-01,Astronomy I,NDEV
+8648,570427,NSG,100,Introduction to Nursing Concepts,2017-07-01,Intro to Nursing Concepts,NDEV
+8649,570428,NSG,106,Competencies for Nursing Practice,2022-04-01,Competencies for Nursing Pract,NDEV
+8650,570429,NSG,130,Professional Nursing Concepts,2017-07-01,Professional Nursing Concepts,NDEV
+8653,570430,NSG,200,Health Promotion and Assessment,2017-07-01,Health Promotion & Assessment,NDEV
+8651,570431,NSG,152,Health Care Participant,2019-01-01,Health Care Participant,NDEV
+8652,570432,NSG,170,Health/Illness Concepts,2019-01-01,Health/Illness Concepts,NDEV
+8654,570433,NSG,210,Health Care Concepts I,2017-07-01,Health Care Concepts I,NDEV
+8655,570435,NSG,211,Health Care Concepts II,2017-07-01,Health Care Concepts II,NDEV
+8656,570436,NSG,230,Advanced Professional Nursing Concepts,2017-07-01,Adv Prof Nursing Concepts,NDEV
+8657,570437,NSG,252,Complex Health Care Concepts,2017-07-01,Complex Health Care Concepts,NDEV
+8658,570438,NSG,270,Nursing Capstone,2017-07-01,Nursing Capstone,NDEV
+8645,158966,NUR,120,Nurse Terminology and Charting,2011-01-17,Nurs Termn Chg,NDEV
+8646,158968,NUR,135,Drug Dosage Calculations,2011-01-17,Drg Dosage Cal,NDEV
+8647,544176,NUR,293,Studies In,2011-01-01,Studies In,NDEV
+8659,159314,PED,101,Fundamentals of Physical Activity I,1989-01-09,Fund Phy Acti,NDEV
+8660,159316,PED,103,Aerobic Fitness I,2011-01-18,Aerobic Fit I,NDEV
+8661,159317,PED,104,Aerobic Fitness II,2011-01-18,Aerobic Fitnes,NDEV
+8662,159318,PED,105,Aerobic Dance I,2011-01-18,Aerob Dance I,NDEV
+8663,159319,PED,106,Aerobic Dance II,2007-01-01,Aero Danc II,NDEV
+8665,159329,PED,129,Self Defense,2011-01-18,Self Defense,NDEV
+8666,159339,PED,152,Basketball,1996-01-05,Basketball,NDEV
+8667,159346,PED,171,Ballroom Dance I,1989-01-09,Ballroom Dance,NDEV
+8668,159347,PED,174,Shooting and Firearm Safety,2012-03-19,Shooting and Firearm Safety,NDEV
+8669,159357,PED,206,Sports Appreciation,2004-08-01,Sports Appre,NDEV
+8664,544876,PED,110,Zumba,2014-01-01,Zumba,NDEV
+8670,159478,PHI,100,Intro To Philosophy,2011-01-18,Int To Phil,NDEV
+8671,159481,PHI,111,Logic I,2015-10-26,Logic I,NDEV
+8672,159487,PHI,220,Ethics,1989-01-09,Ethics,NDEV
+8673,569735,PHI,227,Bio-Medical Ethics,2017-08-01,Bio-Medical Ethics,NDEV
+8674,159630,PHY,101,Introduction To Physics I,2008-01-01,Physics I,NDEV
+8675,159631,PHY,102,Introduction To Physics II,1988-06-20,Physics II,NDEV
+8676,159720,PLS,211,U.S. Government I,2011-01-18,U.S. Govt I,NDEV
+8677,159721,PLS,212,Us Government II,1988-06-20,Us Govt II,NDEV
+8740,159724,PNE,145,Trends in Practical Nursing,2011-01-18,Tr in Prac Nur,NDEV
+8678,159728,PNE,161,Nursing in Health Changes I,2016-05-01,Nur I,NDEV
+8679,159729,PNE,162,Nursing in Health Changes II,2016-09-01,Nursing in Health Changes II,NDEV
+8680,159730,PNE,163,Nursing in Health Changes III,2017-03-21,Nur III,NDEV
+8681,159731,PNE,173,Pharmacology For Practical Nurses,2011-01-18,Pharm Prac Nur,NDEV
+8682,159835,PSY,126,Psychology For Business and Industry,1988-06-20,Psy Bus Ind,NDEV
+8683,159840,PSY,200,Principles of Psychology,2011-01-18,Principles of Psychology,NDEV
+8684,159844,PSY,205,Crisis Management,1988-06-20,Crisis Mgt,NDEV
+8685,159847,PSY,215,Abnormal Psychology,2011-01-18,Abnormal Psyc,NDEV
+8686,159848,PSY,216,Social Psychology,1989-01-09,Social Psyc,NDEV
+8688,159850,PSY,225,Theories of Personality,2011-01-18,Theo Pers,NDEV
+8689,159851,PSY,226,Intro To Counseling Relationships,1996-08-22,Int Couns Rela,NDEV
+8691,159859,PSY,255,Psy Aspects of Criminal Behavior,1998-05-25,Criminal Behav,NDEV
+8690,501774,PSY,230,Developmental Psychology,2011-01-18,Developmental Psychology,NDEV
+8687,510481,PSY,219,Cross-Cultural Psychology,2005-08-01,Cross-Cultural Psychology,NDEV
+8692,556446,PSY,270,Psychology of Human Sexuality,2014-08-01,Psychology of Human Sexuality,NDEV
+8693,160089,REA,100,Principles of Real Estate,1988-08-25,Prin of Re Est,NDEV
+8694,160091,REA,110,Real Estate Sales,2009-04-06,Real Estate Sales,NDEV
+8695,160094,REA,215,Real Estate Brokerage,2009-04-06,Real Estate Brokerage,NDEV
+8696,160095,REA,216,Real Estate Appraisal,2016-01-01,Real Est Appr,NDEV
+8697,160096,REA,217,Real Estate Finance,2009-09-24,Real Estate Finance,NDEV
+8698,160098,REA,245,Real Estate Law,2004-08-01,Real Estat Law,NDEV
+8700,160130,REL,200,Survey of The Old Testament,1989-08-28,Surv Old Test,NDEV
+8701,160133,REL,210,Survey of New Testament,2011-01-18,Surv New Testa,NDEV
+8702,160134,REL,216,Life and Teachings of Jesus,1992-08-24,Life/Teac Jes,NDEV
+8703,160137,REL,230,Religions of The World,2011-01-18,Religion of Wr,NDEV
+8699,500529,REL,100,Introduction to the Study of Religion,2003-01-08,Intro to the Study of Religion,NDEV
+8704,161158,RVH,130,Motorcycle Rider Safety - Beginning,2011-01-18,Motorcycle Sft,NDEV
+8705,160288,SAF,126,Principles of Industrial Safety,2013-01-01,Principles of Industrial Safet,NDEV
+8706,545155,SAF,130,SAF 130,2011-05-01,SAF 130-Industrial Safety,DEV
+8719,160819,SDV,100,College Success Skills,2011-01-18,College Success Skills,NDEV
+8721,160822,SDV,106,Preparation For Employment,2011-01-18,Prep For Emply,NDEV
+8739,160823,SDV,107,Career Education,2010-08-01,Career Educ,NDEV
+8720,505570,SDV,101,Orientation To,2011-08-01,Orientation To,NDEV
+8722,542600,SDV,109,Student Leadership Development,2010-08-01,Student Leadership Development,NDEV
+8718,566964,SDV,1,Student Development (TEAS Prep - Nursing),2016-01-01,Student Development (TEAS),DEV
+8708,160536,SOC,200,Principles to Sociology,2011-01-18,Principles to Sociology,NDEV
+8709,160542,SOC,215,Sociology of The Family,2011-01-18,Soc Family,NDEV
+8710,160544,SOC,218,Family Violence,1998-08-21,Family Violenc,NDEV
+8711,160546,SOC,235,Juvenile Delin,2011-01-18,Juvenile Delin,NDEV
+8712,160547,SOC,236,Criminology,1989-01-09,Criminology,NDEV
+8713,160554,SOC,268,Social Problems,2011-01-18,Soc Problems,NDEV
+8714,160655,SPA,101,Beginning Spanish I,2011-01-18,Beg Spanish I,NDEV
+8715,160656,SPA,102,Beginning Spanish II,2011-01-18,Beg Span II,NDEV
+8716,160665,SPA,201,Intermediate Spanish I,1990-05-21,Int Spanish I,NDEV
+8717,160666,SPA,202,Intermediate Spanish II,1990-05-21,Int Spanish II,NDEV
+8707,160807,SSC,101,Contemporary Social Problems I,2011-01-18,Cont Soc Probl,NDEV
+8724,160971,WEL,120,Introduction To Welding,2011-01-18,Intro Welding,NDEV
+8725,160972,WEL,123,Arc Welding I,2011-01-18,Arc Welding I,NDEV
+8726,160973,WEL,124,Arc Welding II,1992-01-09,Arc Welding II,NDEV
+8727,160974,WEL,126,Pipe Welding I,1992-01-09,Pipe Welding I,NDEV
+8728,160975,WEL,130,Inert Gas Welding,2011-01-18,Inert Gas Welding,NDEV
+8732,160980,WEL,160,Gas Metal Arc Welding,2012-01-01,Gas Metal Arc Welding,NDEV
+8733,160981,WEL,195,Topic In,2011-01-18,Topic In,NDEV
+8729,501279,WEL,136,Welding III (Inert Gas),2004-08-01,Welding III (Inert Gas),NDEV
+8723,502874,WEL,116,Welding I (Oxyacetylene),2012-08-09,Welding I (Oxyacetylene),NDEV
+8731,534511,WEL,150,Welding Drawing and Interpretation,2008-05-01,Weld Drawing & Interpretation,NDEV
+8730,549329,WEL,138,Pipe and Tube Welding,2012-08-01,Pipe and Tube Welding,NDEV
+8784,569469,WEL,164,"Gas Tungsten Arc Welding (GTAW), Tungsten Inert Gas (TIG)",2017-03-29,Gas Tungsten Arc Welding,NDEV
+8786,572911,WEL,166,"Advanced Gas Tungsten Arc Welding (GTAW), Tungsten Inert Gas (TIG)",2018-01-01,"Advanced GTAW, TIG",NDEV
+8785,572912,WEL,161,Flux Cored Arc Welding (FCAW),2018-05-01,Flux Cored Arc Welding (FCAW),NDEV
